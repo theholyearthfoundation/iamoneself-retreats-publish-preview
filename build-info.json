@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "bd5f9c06634a48e180000383697f6e1d67475af7",
-  "shortCommit": "bd5f9c0",
-  "message": "Genesis: I Am One Self begins in The Holy Earth Foundation",
+  "commit": "6a0ffb72b91b6f86618797178536cdc6b7756a07",
+  "shortCommit": "6a0ffb7",
+  "message": "feat 2026-10-25 — lineage: the time machine (every non-live copy also lists its earlier versions, nearest first); the first lab version is open now that it's history",
   "author": "drasticstatic",
-  "committedAt": "2026-10-25T17:12:27-04:00",
-  "builtAt": "2026-10-25T21:26:57.749Z"
+  "committedAt": "2026-10-25T18:20:05-04:00",
+  "builtAt": "2026-10-25T22:22:07.267Z"
 }
