@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "6a0ffb72b91b6f86618797178536cdc6b7756a07",
-  "shortCommit": "6a0ffb7",
-  "message": "feat 2026-10-25 — lineage: the time machine (every non-live copy also lists its earlier versions, nearest first); the first lab version is open now that it's history",
+  "commit": "4246bd12becc60e8298ca258ba201f5927484d42",
+  "shortCommit": "4246bd1",
+  "message": "feat 2026-10-25 — each path has its own trail: the Vine of the Soul (Plants & Miracles), Two Hearts (Sex and Sweethearts), One Ocean (Vedanta); the switch follows your path; the vision enriches each one",
   "author": "drasticstatic",
-  "committedAt": "2026-10-25T18:20:05-04:00",
-  "builtAt": "2026-10-25T22:22:07.267Z"
+  "committedAt": "2026-10-25T19:50:10-04:00",
+  "builtAt": "2026-10-25T23:51:03.935Z"
 }
