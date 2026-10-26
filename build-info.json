@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "cf87593300941c7641bb3438807f48f4afc74b81",
-  "shortCommit": "cf87593",
-  "message": "docs 2026-10-26 — Stop 9 done: the drift report for Kenney, and what's left for him",
+  "commit": "4438444776fe96a66ffd5891662aa9e2a0c64cf1",
+  "shortCommit": "4438444",
+  "message": "docs 2026-10-26 — Kenney's review sheet (16 decisions, one place) and every open item triaged in PENDING-TASKS",
   "author": "drasticstatic",
-  "committedAt": "2026-10-26T18:43:25-04:00",
-  "builtAt": "2026-10-26T22:44:13.207Z"
+  "committedAt": "2026-10-26T18:46:29-04:00",
+  "builtAt": "2026-10-26T22:47:18.673Z"
 }
