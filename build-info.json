@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "453461eb13e9636bc3cbad62a25e5c084aa31025",
-  "shortCommit": "453461e",
-  "message": "chore 2026-10-26 — Dependabot holds TypeScript 7 until typescript-eslint supports it",
+  "commit": "bf290e28d4d8b70ad316a202c546dae1f0bdf6c8",
+  "shortCommit": "bf290e2",
+  "message": "feat 2026-10-26 — /give: a practice gift, the arrival kit 1.5.2 walk through giving where nothing is real",
   "author": "drasticstatic",
-  "committedAt": "2026-10-26T05:46:36-04:00",
-  "builtAt": "2026-10-26T09:47:20.486Z"
+  "committedAt": "2026-10-26T12:11:58-04:00",
+  "builtAt": "2026-10-26T16:12:43.552Z"
 }
