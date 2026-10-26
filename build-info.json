@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "e684c1297cd7f7ba060515b720420a352464861b",
-  "shortCommit": "e684c12",
-  "message": "Bump actions/setup-node from 4 to 7 (#5)",
+  "commit": "aadcc210fb310bfb45b5a3ab7f3b98f76c82d207",
+  "shortCommit": "aadcc21",
+  "message": "Bump the minor-and-patch group across 1 directory with 7 updates (#6)",
   "author": "dependabot[bot]",
-  "committedAt": "2026-10-26T05:36:40-04:00",
-  "builtAt": "2026-10-26T09:37:21.706Z"
+  "committedAt": "2026-10-26T05:38:32-04:00",
+  "builtAt": "2026-10-26T09:39:26.161Z"
 }
