@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "9b6fa0621cd939717b01dbb5943cb2490ad6b315",
-  "shortCommit": "9b6fa06",
-  "message": "fix 2026-10-26 — the teaching modal's \"Read more in the FAQ\" button reads clearly in every light: each solid button color one shade deeper",
+  "commit": "288119aa0dc9be31eaa0a59f9106b32e6c40432f",
+  "shortCommit": "288119a",
+  "message": "docs 2026-10-26 — PENDING-TASKS and the review sheet note the teaching modal button fix (A11, 9b6fa06)",
   "author": "drasticstatic",
-  "committedAt": "2026-10-26T19:00:58-04:00",
-  "builtAt": "2026-10-26T23:01:37.897Z"
+  "committedAt": "2026-10-26T19:01:14-04:00",
+  "builtAt": "2026-10-26T23:02:34.578Z"
 }
