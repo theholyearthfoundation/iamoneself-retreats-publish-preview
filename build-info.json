@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "5953286038d8d1d600bda77faf028d8606a9888a",
-  "shortCommit": "5953286",
-  "message": "content 2026-10-26 — Stop 9: five new teachings from Kenney's Plants & Miracles letters, as drafts",
+  "commit": "8b864c1bb1ce91fbd61538518565e9bc0754de21",
+  "shortCommit": "8b864c1",
+  "message": "fix 2026-10-26 — David's card opens david.iamoneself.com, and the Retreat Guru buttons rest until the listing exists",
   "author": "drasticstatic",
-  "committedAt": "2026-10-26T15:38:25-04:00",
-  "builtAt": "2026-10-26T19:45:46.336Z"
+  "committedAt": "2026-10-26T15:48:20-04:00",
+  "builtAt": "2026-10-26T19:51:32.879Z"
 }

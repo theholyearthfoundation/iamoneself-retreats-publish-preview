@@ -46,7 +46,7 @@ disclaimer banner for the compliance framing this policy sits alongside.
 This portal doesn't process bookings or payments itself. Every retreat
 registration and payment completes on a verified third-party platform:
 
-- [Retreat Guru](https://iamoneself.retreat.guru)
+- Retreat Guru (our listing is on its way; the link appears here once it exists)
 - [Aya Advisors](https://www.ayaadvisors.org)
 - [The Third Wave](https://www.thethirdwave.co)
 - the official [iamoneself.com](https://www.iamoneself.com) Wix site
