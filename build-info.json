@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "6ed0d488d8c9d39a798cd354d8e93b0f3c3c27b5",
-  "shortCommit": "6ed0d48",
-  "message": "Bump actions/checkout from 4 to 7 (#4)",
+  "commit": "e684c1297cd7f7ba060515b720420a352464861b",
+  "shortCommit": "e684c12",
+  "message": "Bump actions/setup-node from 4 to 7 (#5)",
   "author": "dependabot[bot]",
-  "committedAt": "2026-10-26T05:34:49-04:00",
-  "builtAt": "2026-10-26T09:35:39.987Z"
+  "committedAt": "2026-10-26T05:36:40-04:00",
+  "builtAt": "2026-10-26T09:37:21.706Z"
 }
