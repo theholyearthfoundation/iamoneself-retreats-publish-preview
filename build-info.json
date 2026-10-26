@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "4246bd12becc60e8298ca258ba201f5927484d42",
-  "shortCommit": "4246bd1",
-  "message": "feat 2026-10-25 — each path has its own trail: the Vine of the Soul (Plants & Miracles), Two Hearts (Sex and Sweethearts), One Ocean (Vedanta); the switch follows your path; the vision enriches each one",
+  "commit": "25e78d5e448b83d3e47f59226e91b276e02aecc8",
+  "shortCommit": "25e78d5",
+  "message": "docs 2026-10-25 — keys-and-locks: move-day switches (deploy keys, Actions, Dependabot), the empty-base-path note, DNS done and verified, the domain's 2026-11-20 renewal",
   "author": "drasticstatic",
-  "committedAt": "2026-10-25T19:50:10-04:00",
-  "builtAt": "2026-10-25T23:51:03.935Z"
+  "committedAt": "2026-10-25T21:06:38-04:00",
+  "builtAt": "2026-10-26T01:07:26.055Z"
 }
