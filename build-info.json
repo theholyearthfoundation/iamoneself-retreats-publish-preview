@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "f89f928e74d96df31701e14eaa5186a3963b62b5",
-  "shortCommit": "f89f928",
-  "message": "fix 2026-10-25 — lint: 0 errors, 0 warnings, with no visible change",
+  "commit": "a620bb72a2fb3ae47835f8f21317683e3e3d5a15",
+  "shortCommit": "a620bb7",
+  "message": "chore 2026-10-25 — twins: AGENTS.md says what each copy should receive and how to check both ways; a PR template with the twin check; Dependabot version updates rehearse on preview",
   "author": "drasticstatic",
-  "committedAt": "2026-10-25T21:08:39-04:00",
-  "builtAt": "2026-10-26T01:09:41.185Z"
+  "committedAt": "2026-10-25T21:41:22-04:00",
+  "builtAt": "2026-10-26T01:42:14.907Z"
 }
