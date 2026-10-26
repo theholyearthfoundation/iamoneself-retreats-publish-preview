@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "ae6bc7789fd8cfd5371674a2c577ea5130904be3",
-  "shortCommit": "ae6bc77",
-  "message": "Bump framer-motion from 13.1.1 to 14.6.0 (#7)",
-  "author": "dependabot[bot]",
-  "committedAt": "2026-10-26T05:42:16-04:00",
-  "builtAt": "2026-10-26T09:43:06.675Z"
+  "commit": "453461eb13e9636bc3cbad62a25e5c084aa31025",
+  "shortCommit": "453461e",
+  "message": "chore 2026-10-26 — Dependabot holds TypeScript 7 until typescript-eslint supports it",
+  "author": "drasticstatic",
+  "committedAt": "2026-10-26T05:46:36-04:00",
+  "builtAt": "2026-10-26T09:47:20.486Z"
 }
