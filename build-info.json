@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "a620bb72a2fb3ae47835f8f21317683e3e3d5a15",
-  "shortCommit": "a620bb7",
-  "message": "chore 2026-10-25 — twins: AGENTS.md says what each copy should receive and how to check both ways; a PR template with the twin check; Dependabot version updates rehearse on preview",
+  "commit": "401b27a60ee0a3b24c12491a8e65265eb60676b7",
+  "shortCommit": "401b27a",
+  "message": "chore 2026-10-26 — keys-and-locks: GitGuardian is scanning, the ChatGPT/Codex app is installed, Wix is Kenney's",
   "author": "drasticstatic",
-  "committedAt": "2026-10-25T21:41:22-04:00",
-  "builtAt": "2026-10-26T01:42:14.907Z"
+  "committedAt": "2026-10-26T03:38:09-04:00",
+  "builtAt": "2026-10-26T07:39:04.843Z"
 }
