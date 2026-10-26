@@ -5,4 +5,4 @@
 :HL["/iamoneself-retreats-publish-preview/_next/static/media/PapyrusStd-s.p.0d78in7z4rge2.woff","font",{"crossOrigin":"","type":"font/woff"}]
 :HL["/iamoneself-retreats-publish-preview/_next/static/chunks/3w0qlwc7e72u1.css","style"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"Jx0CqbS1euc-OEl0_GY9-","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"dnI5k_3W7it54sPB7QInb","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

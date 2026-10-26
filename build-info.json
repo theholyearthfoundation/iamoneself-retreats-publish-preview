@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "25e78d5e448b83d3e47f59226e91b276e02aecc8",
-  "shortCommit": "25e78d5",
-  "message": "docs 2026-10-25 — keys-and-locks: move-day switches (deploy keys, Actions, Dependabot), the empty-base-path note, DNS done and verified, the domain's 2026-11-20 renewal",
+  "commit": "f89f928e74d96df31701e14eaa5186a3963b62b5",
+  "shortCommit": "f89f928",
+  "message": "fix 2026-10-25 — lint: 0 errors, 0 warnings, with no visible change",
   "author": "drasticstatic",
-  "committedAt": "2026-10-25T21:06:38-04:00",
-  "builtAt": "2026-10-26T01:07:26.055Z"
+  "committedAt": "2026-10-25T21:08:39-04:00",
+  "builtAt": "2026-10-26T01:09:41.185Z"
 }
