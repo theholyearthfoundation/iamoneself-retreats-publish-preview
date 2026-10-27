@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "cd81c2393ca35df3503b31c907bf275695aa845c",
-  "shortCommit": "cd81c23",
-  "message": "docs 2026-10-27 — the PR template says how to merge a Promote: Create a merge commit, never squash",
+  "commit": "4a889acf66ddb5a095527426bc80910abbbaa103",
+  "shortCommit": "4a889ac",
+  "message": "docs 2026-10-27 — a true welcome for Kenney's AI helper, his ChatGPT \"Alfred\" (WELCOME-FOR-YOUR-HELPER.md, linked from the very top of AGENTS.md); the listing kit's naming note; Proposal 008 pointers",
   "author": "drasticstatic",
-  "committedAt": "2026-10-27T13:47:57-04:00",
-  "builtAt": "2026-10-27T17:48:40.498Z"
+  "committedAt": "2026-10-27T14:09:30-04:00",
+  "builtAt": "2026-10-27T18:10:19.001Z"
 }
