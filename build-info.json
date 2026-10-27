@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "766ca42c0d904996706b0d17f079ecbef356175f",
-  "shortCommit": "766ca42",
-  "message": "fix 2026-10-27 — while you paint, the trail gets every frame: the sky's twinkle and the page's always-on glows hold still while the pointer moves and carry on 0.6 s after it rests",
+  "commit": "9013bf444641cee19b501e55e833dcfe2af56a71",
+  "shortCommit": "9013bf4",
+  "message": "docs 2026-10-27 — round 2 written down: the kaleidoscope's guard, the layered sky and \"while you paint\" in experience.md, Christopher's card on Kenney's review sheet (item 17), PENDING-TASKS R1–R7 with the frame table",
   "author": "drasticstatic",
-  "committedAt": "2026-10-27T01:43:35-04:00",
-  "builtAt": "2026-10-27T05:59:10.426Z"
+  "committedAt": "2026-10-27T02:23:16-04:00",
+  "builtAt": "2026-10-27T06:24:09.390Z"
 }
