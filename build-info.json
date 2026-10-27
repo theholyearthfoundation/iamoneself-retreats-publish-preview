@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "fe369df7d4245f2d0d942354b7313a7d8c0872cc",
-  "shortCommit": "fe369df",
-  "message": "chore 2026-10-27 — record main's squash Promotes in preview's history (no file changes)",
+  "commit": "cd81c2393ca35df3503b31c907bf275695aa845c",
+  "shortCommit": "cd81c23",
+  "message": "docs 2026-10-27 — the PR template says how to merge a Promote: Create a merge commit, never squash",
   "author": "drasticstatic",
-  "committedAt": "2026-10-27T13:47:12-04:00",
-  "builtAt": "2026-10-27T17:47:52.352Z"
+  "committedAt": "2026-10-27T13:47:57-04:00",
+  "builtAt": "2026-10-27T17:48:40.498Z"
 }
