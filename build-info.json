@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "e4517a1d0449ffe92ab0d3a5dcd59268fa1ba4f8",
-  "shortCommit": "e4517a1",
-  "message": "chore 2026-10-27 — preview takes in main's squashed Promotes (#10, #11, #12), so this round's Promote PR merges cleanly",
+  "commit": "fe369df7d4245f2d0d942354b7313a7d8c0872cc",
+  "shortCommit": "fe369df",
+  "message": "chore 2026-10-27 — record main's squash Promotes in preview's history (no file changes)",
   "author": "drasticstatic",
-  "committedAt": "2026-10-27T02:30:17-04:00",
-  "builtAt": "2026-10-27T06:31:15.086Z"
+  "committedAt": "2026-10-27T13:47:12-04:00",
+  "builtAt": "2026-10-27T17:47:52.352Z"
 }
