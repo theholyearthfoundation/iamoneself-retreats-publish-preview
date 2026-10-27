@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "0dabc4da63f0d75b43aa9f1cf393b13868766ffb",
-  "shortCommit": "0dabc4d",
-  "message": "content 2026-10-27 — the application's \"How did you find us?\" lists the directories Kenney is joining",
+  "commit": "766ca42c0d904996706b0d17f079ecbef356175f",
+  "shortCommit": "766ca42",
+  "message": "fix 2026-10-27 — while you paint, the trail gets every frame: the sky's twinkle and the page's always-on glows hold still while the pointer moves and carry on 0.6 s after it rests",
   "author": "drasticstatic",
-  "committedAt": "2026-10-27T00:31:43-04:00",
-  "builtAt": "2026-10-27T04:40:07.446Z"
+  "committedAt": "2026-10-27T01:43:35-04:00",
+  "builtAt": "2026-10-27T05:59:10.426Z"
 }
