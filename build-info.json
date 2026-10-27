@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "df8452778eb5e14a1e7bc9dd86e97fa96fa8aa58",
-  "shortCommit": "df84527",
-  "message": "docs 2026-10-26 — the listing kit: one retreat profile in English and Spanish, a page per platform, the photo set and Kenney's evening (free directories first, then Retreat Guru)",
+  "commit": "0dabc4da63f0d75b43aa9f1cf393b13868766ffb",
+  "shortCommit": "0dabc4d",
+  "message": "content 2026-10-27 — the application's \"How did you find us?\" lists the directories Kenney is joining",
   "author": "drasticstatic",
-  "committedAt": "2026-10-26T23:59:37-04:00",
-  "builtAt": "2026-10-27T04:00:37.809Z"
+  "committedAt": "2026-10-27T00:31:43-04:00",
+  "builtAt": "2026-10-27T04:40:07.446Z"
 }
