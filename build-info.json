@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "288119aa0dc9be31eaa0a59f9106b32e6c40432f",
-  "shortCommit": "288119a",
-  "message": "docs 2026-10-26 — PENDING-TASKS and the review sheet note the teaching modal button fix (A11, 9b6fa06)",
+  "commit": "df8452778eb5e14a1e7bc9dd86e97fa96fa8aa58",
+  "shortCommit": "df84527",
+  "message": "docs 2026-10-26 — the listing kit: one retreat profile in English and Spanish, a page per platform, the photo set and Kenney's evening (free directories first, then Retreat Guru)",
   "author": "drasticstatic",
-  "committedAt": "2026-10-26T19:01:14-04:00",
-  "builtAt": "2026-10-26T23:02:34.578Z"
+  "committedAt": "2026-10-26T23:59:37-04:00",
+  "builtAt": "2026-10-27T04:00:37.809Z"
 }
