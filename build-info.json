@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "4a889acf66ddb5a095527426bc80910abbbaa103",
-  "shortCommit": "4a889ac",
-  "message": "docs 2026-10-27 — a true welcome for Kenney's AI helper, his ChatGPT \"Alfred\" (WELCOME-FOR-YOUR-HELPER.md, linked from the very top of AGENTS.md); the listing kit's naming note; Proposal 008 pointers",
+  "commit": "3fa2d90955ba7c1f2c1bfb9db462a2f034bad366",
+  "shortCommit": "3fa2d90",
+  "message": "content 2026-10-27 — Christopher W's healer card ends with one link: \"You may also find Christopher serving alongside other communities\"",
   "author": "drasticstatic",
-  "committedAt": "2026-10-27T14:09:30-04:00",
-  "builtAt": "2026-10-27T18:10:19.001Z"
+  "committedAt": "2026-10-27T14:17:10-04:00",
+  "builtAt": "2026-10-27T18:18:04.433Z"
 }
