@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "fe5290e7bd69161407a3f62fd093478faa77caa9",
-  "shortCommit": "fe5290e",
-  "message": "docs 2026-10-29 — the welcome for Kenney's helper moves to the members' home (.github-private); its old address here says where, and how to reach it",
+  "commit": "167b9c8f9567f7d71d2410ce1913eecb8ead08b7",
+  "shortCommit": "167b9c8",
+  "message": "AGENTS: proposals and PDFs travel with their markdown (link to my-template's Markdown beside the PDF and the TONES register)",
   "author": "drasticstatic",
-  "committedAt": "2026-10-29T18:20:04-04:00",
-  "builtAt": "2026-10-29T22:21:19.550Z"
+  "committedAt": "2026-10-29T22:39:03-04:00",
+  "builtAt": "2026-10-30T02:39:42.347Z"
 }
