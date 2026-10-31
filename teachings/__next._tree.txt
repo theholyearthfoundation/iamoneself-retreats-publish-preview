@@ -7,4 +7,4 @@
 :HL["/iamoneself-retreats-publish-preview/_next/static/chunks/2o79ghhzos2dz.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"teachings","h":96,"c":"$Q2"}]]
-0:{"b":"tK_ZmYVip1KRvKxPR0E9j","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"pSKLnQZJfhgvsJkKv_SMx","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
