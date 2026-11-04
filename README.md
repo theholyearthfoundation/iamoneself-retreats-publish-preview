@@ -1,10 +1,29 @@
+<!-- readme-standard: 2026-11-02 -->
+<div align="center">
+
+<img src="assets/banner.svg" width="100%" alt="I Am One Self: a sun above waves of light that rise and settle in a slow rhythm, like a tide or a breath.">
+
 # I Am One Self 🦉🦅 — The Holy Earth Foundation
+
+*The private build workspace behind the foundation's teaching and retreats portal.*
+
+[![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey?style=flat)](LICENSE)
+[![Public Preview](https://img.shields.io/badge/%F0%9F%8C%90%20Public%20Preview-Available-brightgreen)](https://drasticstatic.github.io/iamoneself-public-preview/) [![Synced via GitHub Actions](https://img.shields.io/badge/Synced%20via-GitHub%20Actions-blue)](https://github.com/open-condo-software/gitexporter) [![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code%20CLI-blueviolet)](https://code.claude.com/docs/en/overview) [![Status](https://img.shields.io/badge/Status-%F0%9F%94%A5%20Active%20Build-orange)](https://github.com/drasticstatic/iamoneself)
+![For](https://img.shields.io/badge/For-Visitors_and_builders-64748b?style=flat-square)
+
+<img src="assets/icons/map-pin.svg" width="16" height="16" alt=""> **You are here:** The Holy Earth Foundation › source `iamoneself-retreats` (private) → twins `iamoneself-retreats-publish-preview` (rehearsal) and `iamoneself-retreats-public` (live) · `preview` is the working branch
+
+</div>
+
+## <img src="assets/icons/compass.svg" width="24" height="24" alt=""> TL;DR
+
+1. <img src="assets/icons/sprout.svg" width="16" height="16" alt=""> **What this is.** The workspace for an interactive portal to the teaching of **Plants & Miracles**: the FAQ, retreats, coaching and the art gallery. It points to the official site and licensed platforms for bookings, and never duplicates a transaction.
+2. <img src="assets/icons/users-round.svg" width="16" height="16" alt=""> **Who it is for.** Visitors read the [live site](https://www.iamoneself.com). The builder and helpers work here.
+3. <img src="assets/icons/footprints.svg" width="16" height="16" alt=""> **Do this first.** `npm install`, then `npm run dev`, and open <http://localhost:3000>.
 
 > *"I am one Self, united with my Creator, at one with every aspect of creation, and limitless in power and in peace."*
 > — ACIM Lesson 95
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey?style=flat)](LICENSE)
-[![Public Preview](https://img.shields.io/badge/%F0%9F%8C%90%20Public%20Preview-Available-brightgreen)](https://drasticstatic.github.io/iamoneself-public-preview/) [![Synced via GitHub Actions](https://img.shields.io/badge/Synced%20via-GitHub%20Actions-blue)](https://github.com/open-condo-software/gitexporter) [![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code%20CLI-blueviolet)](https://code.claude.com/docs/en/overview) [![Status](https://img.shields.io/badge/Status-%F0%9F%94%A5%20Active%20Build-orange)](https://github.com/drasticstatic/iamoneself)
 
 ---
 
@@ -185,6 +204,10 @@ npm run build
 ---
 
 <a id="license"></a>
+## <img src="assets/icons/git-pull-request.svg" width="24" height="24" alt=""> Suggest a change
+
+Noticed something? Open an [issue](https://github.com/theholyearthfoundation/iamoneself-retreats/issues) or a pull request against `preview`; the foundation's stewards read them, and a Promote pull request from `preview` to `main` waits for a person with the role. The source is private, so a visitor sees a 404 there. Not on GitHub? Reach the foundation through [iamoneself.com](https://www.iamoneself.com).
+
 ## 📜 License
 
 This repository is the private development source — not licensed for
@@ -202,9 +225,11 @@ copy to run with their own tooling rather than inheriting this account's operati
 
 Two consequences worth stating plainly:
 
-- **Fleet-internal coordination does not travel.** `AGENT-SYNC/` and `logs/` exist to coordinate
+- **Fleet-internal coordination does not travel.** The agents' notes folder and `logs/` exist to coordinate
   *this* fleet's agents and carry no meaning in someone else's. They are not part of the handover
   and are absent from the published site by construction — the sync workflow deploys built output
   and a short list of named documents, never the source tree.
 - **This repository remains the historical origin.** If the work continues elsewhere, this copy
   stays as the record of how it was built, rather than being emptied or redirected.
+
+<sub>The front door follows the living [README standard](https://github.com/drasticstatic/my-template/blob/main/README-STANDARD.md). Copy it, improve it.</sub>

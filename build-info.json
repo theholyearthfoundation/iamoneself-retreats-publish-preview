@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "787364774c7ba7455d6314704680aa63b0d8715c",
-  "shortCommit": "7873647",
-  "message": ":wrench: config(hooks): warn-only gitmoji hint, called after the attribution check",
+  "commit": "8ea476a681b610e0f98af79ff4a31a5ab3a92ea3",
+  "shortCommit": "8ea476a",
+  "message": ":lock: fix(intake): the form's label reads \"Birthdate\", so the public lane publishes it without an attestation",
   "author": "drasticstatic",
-  "committedAt": "2026-11-01T10:32:19-05:00",
-  "builtAt": "2026-11-01T15:33:54.443Z"
+  "committedAt": "2026-11-04T16:52:24-05:00",
+  "builtAt": "2026-11-04T21:53:12.857Z"
 }
