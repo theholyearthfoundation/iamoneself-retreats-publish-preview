@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "8ea476a681b610e0f98af79ff4a31a5ab3a92ea3",
-  "shortCommit": "8ea476a",
-  "message": ":lock: fix(intake): the form's label reads \"Birthdate\", so the public lane publishes it without an attestation",
+  "commit": "3962406c39cbb837e51a1b77bb37b2cd11435c18",
+  "shortCommit": "3962406",
+  "message": ":memo: docs(paths): the FYF mirror row names code/findyourfeathers-lab",
   "author": "drasticstatic",
-  "committedAt": "2026-11-04T16:52:24-05:00",
-  "builtAt": "2026-11-04T21:53:12.857Z"
+  "committedAt": "2026-11-06T02:04:08-05:00",
+  "builtAt": "2026-11-06T07:05:20.108Z"
 }
