@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "3962406c39cbb837e51a1b77bb37b2cd11435c18",
-  "shortCommit": "3962406",
-  "message": ":memo: docs(paths): the FYF mirror row names code/findyourfeathers-lab",
+  "commit": "4f433e767224ca94648a37468b6f08dd73a2b686",
+  "shortCommit": "4f433e7",
+  "message": ":truck: move(paths): the FYF lab lives at ~/drasticstaticLabs/findyourfeathers-lab since Nov 6",
   "author": "drasticstatic",
-  "committedAt": "2026-11-06T02:04:08-05:00",
-  "builtAt": "2026-11-06T07:05:20.108Z"
+  "committedAt": "2026-11-06T07:12:51-05:00",
+  "builtAt": "2026-11-06T12:14:46.172Z"
 }
