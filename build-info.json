@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "4f433e767224ca94648a37468b6f08dd73a2b686",
-  "shortCommit": "4f433e7",
-  "message": ":truck: move(paths): the FYF lab lives at ~/drasticstaticLabs/findyourfeathers-lab since Nov 6",
+  "commit": "5f4440e1517a2494269fc67db2906c0a282fd4e4",
+  "shortCommit": "5f4440e",
+  "message": ":memo: docs(claude): working here: session order, warn first, attesting stays with the organisation",
   "author": "drasticstatic",
-  "committedAt": "2026-11-06T07:12:51-05:00",
-  "builtAt": "2026-11-06T12:14:46.172Z"
+  "committedAt": "2026-11-06T08:16:13-05:00",
+  "builtAt": "2026-11-06T13:17:28.108Z"
 }
